@@ -1,0 +1,57 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/hiv-aids-charlson-primary-care---primary.py
+inputModule3:
+  class: File
+  path: python/hiv-aids-charlson-primary-care-immunodef---primary.py
+inputModule4:
+  class: File
+  path: python/hiv-aids-charlson-primary-care-deficiency---primary.py
+inputModule5:
+  class: File
+  path: python/hiv-aids-charlson-primary-care-neopl---primary.py
+inputModule6:
+  class: File
+  path: python/hiv-aids-charlson-primary-care-nurse---primary.py
+inputModule7:
+  class: File
+  path: python/hiv-aids-charlson-primary-care-abnormsnec---primary.py
+inputModule8:
+  class: File
+  path: python/hiv-aids-charlson-primary-care-unspecified---primary.py
+inputModule9:
+  class: File
+  path: python/other-hiv-aids-charlson-primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/hiv-aids-charlson-primary-care-resulting---primary.py
+inputModule11:
+  class: File
+  path: python/aids---primary.py
+inputModule12:
+  class: File
+  path: python/multiple-hiv-aids-charlson-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/hiv-aids-charlson-primary-care-pneumonia---primary.py
+inputModule14:
+  class: File
+  path: python/viral-hiv-aids-charlson-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/hiv-aids-charlson-primary-care-tissu---primary.py
+inputModule16:
+  class: File
+  path: python/parasitic-hiv-aids-charlson-primary-care---primary.py
+inputModule17:
+  class: File
+  path: python/hiv-aids-charlson-primary-care-unspcf---primary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
